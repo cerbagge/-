@@ -1,4 +1,4 @@
-# MADE BY MNT
+# ⓒ 2025. MF_MNT(leemoon0404star@gmail.com)
 
 colab 기반으로 만들어졌습니다
 https://colab.google/
